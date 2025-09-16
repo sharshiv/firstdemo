@@ -1,4 +1,4 @@
 # firstdemo
 this is my first git repo
 <br>
-Author - Shivendra Sharma
+Author - Shivendra JCI
